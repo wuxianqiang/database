@@ -7,3 +7,12 @@
 * [ECMAScript 6 — New Features](http://es6-features.org/#Constants)
 * [ES2015+ cheatsheet](https://devhints.io/es6)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+
+## 免费视频
+* [技术胖的博客](http://jspang.com/)
+* [Node 爱好者](https://nodelover.me/)
+* [基于Koa2搭建Node.js实战项目教程](https://camp.qianduan.group/koa2/2/1/1)
+
+## API手册
+* [overapi](http://overapi.com/javascript)
+* [devhints](https://devhints.io/)
