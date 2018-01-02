@@ -1,5 +1,13 @@
 # 资料库
 
+## 中文文档
+* [react中文文档](http://www.css88.com/react/)
+* [webpack中文文档](http://www.css88.com/doc/webpack/)
+* [parcel中文文档](http://www.css88.com/doc/parcel/)
+* [30s就能理解的JavaScript](http://www.css88.com/30-seconds-of-code/)
+* [bable中文文档](http://www.css88.com/doc/bable/)
+
+
 ## ES6资料
 
 * [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
